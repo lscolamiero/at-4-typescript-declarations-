@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
